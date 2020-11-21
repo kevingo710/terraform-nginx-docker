@@ -9,3 +9,8 @@ https://mattcbaker.com/posts/mounting-window-dir-docker/
 Mount volume | routes absolutes always
 
 Example '/C/Users/nameuser/folderShared/folderIndex/'
+
+RUN step by step:
+```
+terraform init | terraform apply | terraform destroy
+`````
